@@ -2,6 +2,7 @@
 
 Once the subject of an FBI investigation, the lyrics of this rock 'n' roll classic have long been confusing. Confront your confusion with this handy script. Includes random intervals between lyrics! Not just random, but random intervals pulled from a Weibull distribution.
 
+This program is both portable, cross-platform, and multiparidigmatic (not sure what that means really).
 
 ### Getting started
 Relive the glory for the first (!) time.
